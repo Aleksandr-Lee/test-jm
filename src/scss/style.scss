@@ -1,6 +1,5 @@
 @import '../scss/header.scss';
-$bgColor: #24292e;
-$text: #fff;
+@import '../scss/var.scss';
 
 @font-face {
   font-family: 'Comic';
