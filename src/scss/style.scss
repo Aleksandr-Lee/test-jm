@@ -1,3 +1,4 @@
+@import '../scss/header.scss';
 $bgColor: #24292e;
 $text: #fff;
 
@@ -16,9 +17,3 @@ body {
   color: $text;
 }
 
-h3 {
-	font-size: 56px;
-	color: blue;
-	border: 2px solid blueviolet;
-	border-radius: 50px;
-}
